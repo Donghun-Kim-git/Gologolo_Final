@@ -1,0 +1,42 @@
+
+
+
+
+h3 {
+    font-size:2.92rem;
+    font-weight:300;
+    line-height:110%;
+    margin-top: 0;
+    margin:1.9466666667rem 0 1.168rem 0
+}
+
+.row {
+    display:flex;
+}
+.row .col.s1 {
+    flex: 1;
+}
+.row .col.s2 {
+    flex: 4;
+  margin-left: auto;
+  left: auto;
+  right: auto;
+}
+.row .col.s8 {
+    flex: 4 ;
+}
+.row .col .s9 {
+    flex:1
+}
+
+.container {
+    display: flex;
+}
+
+.panel {
+    flex-basis: 50%;
+}
+
+.panel-heading {
+    flex-basis: 50%;
+}
