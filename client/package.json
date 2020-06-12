@@ -1,0 +1,38 @@
+{
+  "name": "client",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "apollo-boost": "^0.3.1",
+    "bootstrap": "^4.3.1",
+    "dom-to-image": "^2.6.0",
+    "downloadjs": "^1.4.7",
+    "graphql": "^14.2.1",
+    "graphql-tag": "^2.10.1",
+    "html-to-image": "^0.1.1",
+    "html2canvas": "^1.0.0-rc.5",
+    "konva": "^6.0.0",
+    "react": "^16.8.6",
+    "react-apollo": "^2.5.4",
+    "react-dom": "^16.8.6",
+    "react-konva": "^16.13.0-3",
+    "react-router-dom": "^5.0.0",
+    "react-scripts": "^2.1.8",
+    "use-image": "^1.0.5"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}
